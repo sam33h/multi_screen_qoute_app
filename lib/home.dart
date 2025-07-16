@@ -6,6 +6,7 @@ class Home extends StatelessWidget {
     Quote(
       quote: "Be yourself; everyone else is already taken",
       author: " Oscar Wilde",
+
     ),
     Quote(
       quote: "Why do we fall?So that we can learn to pick ourselves up",
